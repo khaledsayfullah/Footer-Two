@@ -1,0 +1,140 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Epilogue", sans-serif;
+  outline: 0;
+}
+a {
+    font-size: 20px;
+    font-weight: 400;
+    color: #ffff;
+    line-height: 30px;
+    letter-spacing: 2%;
+  text-decoration: none;
+}
+ul,
+li {
+  list-style-type: none;
+}
+#footerPart {
+  background: black;
+  
+}
+.container {
+  width: 1690px;
+  padding: 140px 0;
+  margin: 0 auto;
+}
+.footerLeft h1 {
+  color: #ffff;
+  font-size: 100px;
+  font-weight: 600;
+  line-height: 116px;
+  letter-spacing: -2%;
+  width: 1006px;
+}
+.footerLeft span {
+  color: #d62b2c;
+}
+.footerHead {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footerright {
+  padding: 55px;
+  background: #d62b2c;
+}
+.footerright i {
+  font-size: 100px;
+  color: #ffff;
+  rotate: 45deg;
+}
+.midfooterleft {
+  padding-top: 138px;
+}
+.midfooterleft h4 {
+  color: #d62b2c;
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 160%;
+  letter-spacing: 2%;
+}
+.midfooterleft p {
+  color: #ffff;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 2%;
+  width: 273px;
+  padding-top: 20px;
+}
+.midddlePart{
+    display: flex;
+    justify-content: space-between;
+}
+.companyPart,.contactPart, .socialPart{
+    padding-top: 138px;
+}
+.companyPart h5{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #ffff;
+}
+.companyPart ul li a{
+    display: block;
+    padding-top: 15px;
+}
+.companyPart ul li:first-child{
+    padding-top: 25px;
+}
+.contactPart h5{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #ffff;
+}
+.contactPart ul li{
+    font-size: 20px;
+    font-weight: 400;
+    color: #ffff;
+    line-height: 30px;
+    letter-spacing: 2%;
+    padding-top: 30px;
+}
+.contactPart ul li:first-child{
+    padding-top: 25px;
+}
+.socialPart h5{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #ffff;
+}
+.socialPart h5{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #ffff;
+}
+.socialPart ul li a i{
+    padding-top: 20px;
+}
+.midddlePart{
+    padding-bottom: 152px;
+}
+.lastPart{
+    display: flex;
+    justify-content: space-between;
+    border-top: 2px solid #ffff;
+}
+.lastPart p{
+    padding-top: 45px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #ffff;
+}
+
